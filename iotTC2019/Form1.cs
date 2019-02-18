@@ -44,11 +44,7 @@ namespace iotTC2019
 
         }
 
-        private void ExitButton_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click_1(object sender, EventArgs e)
         {
             if (isStart)
             {
@@ -105,6 +101,11 @@ namespace iotTC2019
                 this.TeamName10.BackColor = Color.FromArgb(150, Color.Black);
                 isStart = true;
             }
+        }
+
+        private void ExitButton_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
