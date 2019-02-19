@@ -135,5 +135,20 @@
   <ItemGroup>
     <None Include="Resources\Team10.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawButton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawButton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitButtonblurred.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
