@@ -13,6 +13,10 @@ namespace iotTC2019
             InitializeComponent();
         }
 
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
         private void Button1_Click_1(object sender, EventArgs e)
         {
 

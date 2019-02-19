@@ -118,73 +118,55 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Team2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Team2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="drawButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitButtonblurred" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitButtonblurred.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="IoT" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\IoT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Team7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Team7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Team5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Team5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Team1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Team1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="121" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="drawButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iot-color" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iot-color.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Team9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Team9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Team4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Team4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icon_IOT1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Icon_IOT1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icon_IOT - Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Icon_IOT - Copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="drawButton1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawButton1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icon_IOT" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Icon_IOT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TC 19" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TC 19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Team10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Team10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="exitButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\exitButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="drawButton2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawButton2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Team2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Team2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Team3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Team3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Team8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Team8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Team5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Team5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Team6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Team6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="exitButtonblurred" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\exitButtonblurred.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Team7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Team7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Team8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Team8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Team9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Team9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drawButton2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawButton2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iot_color" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iot-color.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TC_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TC 19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Team4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Team4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

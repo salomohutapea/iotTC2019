@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="mainAnimation.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,47 +59,36 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Resources\Timer TC 2019.zip" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Icon_IOT1.png" />
+    <None Include="Resources\Team10.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Icon_IOT.png" />
+    <None Include="Resources\drawButton.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Icon_IOT - Copy.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\iot-color.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\TC 19.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\12.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\121.png" />
+    <None Include="Resources\exitButtonblurred.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\IoT.png" />
@@ -113,9 +101,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Team3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Team4.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Team5.png" />
@@ -133,22 +118,19 @@
     <None Include="Resources\Team9.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Team10.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\drawButton.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\drawButton1.png" />
+    <None Include="Resources\Team4.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\drawButton2.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\exitButton.png" />
+    <None Include="Resources\iot-color.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\exitButtonblurred.png" />
+    <None Include="Resources\TC 19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_121.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
