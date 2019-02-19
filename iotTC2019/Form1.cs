@@ -17,13 +17,13 @@ namespace iotTC2019
         {
             this.Close();
         }
-        private void Button1_Click_1(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
+            button1.Enabled = false;
 
             if (isStart)
             {
                 //DRAW button does nothing
-                button1.Enabled = false;
             }
             else
             {

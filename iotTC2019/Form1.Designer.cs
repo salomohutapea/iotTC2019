@@ -302,13 +302,13 @@
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Nexa Bold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Image = global::iotTC2019.Properties.Resources.exitButtonblurred;
+            this.button2.Image = global::iotTC2019.Properties.Resources.exitButton;
             this.button2.Location = new System.Drawing.Point(382, 652);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(140, 45);
             this.button2.TabIndex = 16;
             this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.Button1_Click_1);
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // button1
             // 
@@ -321,7 +321,7 @@
             this.button1.Size = new System.Drawing.Size(140, 45);
             this.button1.TabIndex = 16;
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.Button2_Click);
+            this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // pictureBox3
             // 
@@ -370,6 +370,7 @@
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(957, 721);
             this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.RightToLeftLayout = true;
