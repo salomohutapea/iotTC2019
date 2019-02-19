@@ -28,9 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.timerTC = new System.Windows.Forms.Timer(this.components);
             this.panel1 = new System.Windows.Forms.Panel();
             this.TeamName10 = new System.Windows.Forms.Label();
             this.TeamName5 = new System.Windows.Forms.Label();
@@ -73,11 +71,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.logoIot)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.logoTC)).BeginInit();
             this.SuspendLayout();
-            // 
-            // timerTC
-            // 
-            this.timerTC.Interval = 2;
-            this.timerTC.Tick += new System.EventHandler(this.timerTC_Tick);
             // 
             // panel1
             // 
@@ -368,7 +361,6 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Scramble Team IoT TC 2019";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
@@ -390,7 +382,6 @@
         }
 
         #endregion
-        private System.Windows.Forms.Timer timerTC;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.PictureBox pictureBox9;
         private System.Windows.Forms.PictureBox pictureBox8;

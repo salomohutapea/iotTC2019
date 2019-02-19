@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace iotTC2019
@@ -17,35 +11,11 @@ namespace iotTC2019
         public Form1()
         {
             InitializeComponent();
-            timerTC.Enabled = true;
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-
-        }
-
-        private void timerTC_Tick(object sender, EventArgs e)
-        {
-
-            /*if (logoTC.Width >= 605)
-            {
-                timerTC.Enabled = false;
-            }
-            else
-            {
-                logoTC.Location = new Point(logoTC.Location.X + 25, logoTC.Location.Y);
-            } */
-        }
-
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void Button1_Click_1(object sender, EventArgs e)
         {
+
             if (isStart)
             {
                 //DRAW button does nothing
@@ -53,6 +23,7 @@ namespace iotTC2019
             }
             else
             {
+
                 string temp;
                 string[] name = new string[10];
 
@@ -99,13 +70,9 @@ namespace iotTC2019
 
                 this.TeamName10.Text = name[9];
                 this.TeamName10.BackColor = Color.FromArgb(150, Color.Black);
+
                 isStart = true;
             }
-        }
-
-        private void ExitButton_Click_1(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }
