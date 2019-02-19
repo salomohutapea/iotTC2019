@@ -50,12 +50,12 @@
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.logoIot = new System.Windows.Forms.PictureBox();
             this.logoTC = new System.Windows.Forms.PictureBox();
-            this.button2 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
@@ -297,12 +297,25 @@
             this.pictureBox5.TabIndex = 26;
             this.pictureBox5.TabStop = false;
             // 
+            // button2
+            // 
+            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Nexa Bold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Image = global::iotTC2019.Properties.Resources.exitButtonblurred;
+            this.button2.Location = new System.Drawing.Point(382, 652);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(140, 45);
+            this.button2.TabIndex = 16;
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.Button1_Click_1);
+            // 
             // button1
             // 
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Nexa Bold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Image = global::iotTC2019.Properties.Resources.drawButton2;
+            this.button1.Image = global::iotTC2019.Properties.Resources.drawButton1;
             this.button1.Location = new System.Drawing.Point(382, 601);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(140, 45);
@@ -349,19 +362,6 @@
             this.logoTC.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.logoTC.TabIndex = 12;
             this.logoTC.TabStop = false;
-            // 
-            // button2
-            // 
-            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Nexa Bold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Image = global::iotTC2019.Properties.Resources.exitButtonblurred;
-            this.button2.Location = new System.Drawing.Point(382, 652);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(140, 45);
-            this.button2.TabIndex = 16;
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.Button1_Click_1);
             // 
             // Form1
             // 
