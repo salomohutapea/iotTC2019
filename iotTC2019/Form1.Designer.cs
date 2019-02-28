@@ -109,92 +109,92 @@
             // 
             // TeamName10
             // 
-            this.TeamName10.AutoSize = true;
             this.TeamName10.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName10.Location = new System.Drawing.Point(770, 538);
+            this.TeamName10.Location = new System.Drawing.Point(645, 538);
             this.TeamName10.Name = "TeamName10";
-            this.TeamName10.Size = new System.Drawing.Size(0, 13);
+            this.TeamName10.Size = new System.Drawing.Size(154, 13);
             this.TeamName10.TabIndex = 27;
+            this.TeamName10.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // TeamName5
             // 
             this.TeamName5.AutoSize = true;
             this.TeamName5.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName5.Location = new System.Drawing.Point(132, 538);
+            this.TeamName5.Location = new System.Drawing.Point(148, 538);
             this.TeamName5.Name = "TeamName5";
-            this.TeamName5.Size = new System.Drawing.Size(0, 13);
+            this.TeamName5.Size = new System.Drawing.Size(154, 13);
             this.TeamName5.TabIndex = 28;
             // 
             // TeamName9
             // 
-            this.TeamName9.AutoSize = true;
             this.TeamName9.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName9.Location = new System.Drawing.Point(770, 462);
+            this.TeamName9.Location = new System.Drawing.Point(645, 462);
             this.TeamName9.Name = "TeamName9";
-            this.TeamName9.Size = new System.Drawing.Size(0, 13);
+            this.TeamName9.Size = new System.Drawing.Size(154, 13);
             this.TeamName9.TabIndex = 29;
+            this.TeamName9.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // TeamName4
             // 
             this.TeamName4.AutoSize = true;
             this.TeamName4.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName4.Location = new System.Drawing.Point(132, 462);
+            this.TeamName4.Location = new System.Drawing.Point(148, 462);
             this.TeamName4.Name = "TeamName4";
-            this.TeamName4.Size = new System.Drawing.Size(0, 13);
+            this.TeamName4.Size = new System.Drawing.Size(154, 13);
             this.TeamName4.TabIndex = 30;
             // 
             // TeamName8
             // 
-            this.TeamName8.AutoSize = true;
             this.TeamName8.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName8.Location = new System.Drawing.Point(770, 387);
+            this.TeamName8.Location = new System.Drawing.Point(645, 387);
             this.TeamName8.Name = "TeamName8";
-            this.TeamName8.Size = new System.Drawing.Size(0, 13);
+            this.TeamName8.Size = new System.Drawing.Size(154, 13);
             this.TeamName8.TabIndex = 31;
+            this.TeamName8.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // TeamName3
             // 
             this.TeamName3.AutoSize = true;
             this.TeamName3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName3.Location = new System.Drawing.Point(132, 387);
+            this.TeamName3.Location = new System.Drawing.Point(148, 387);
             this.TeamName3.Name = "TeamName3";
-            this.TeamName3.Size = new System.Drawing.Size(0, 13);
+            this.TeamName3.Size = new System.Drawing.Size(154, 13);
             this.TeamName3.TabIndex = 32;
             // 
             // TeamName7
             // 
-            this.TeamName7.AutoSize = true;
             this.TeamName7.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName7.Location = new System.Drawing.Point(770, 313);
+            this.TeamName7.Location = new System.Drawing.Point(645, 313);
             this.TeamName7.Name = "TeamName7";
-            this.TeamName7.Size = new System.Drawing.Size(0, 13);
+            this.TeamName7.Size = new System.Drawing.Size(154, 13);
             this.TeamName7.TabIndex = 33;
+            this.TeamName7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // TeamName2
             // 
             this.TeamName2.AutoSize = true;
             this.TeamName2.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName2.Location = new System.Drawing.Point(132, 313);
+            this.TeamName2.Location = new System.Drawing.Point(148, 313);
             this.TeamName2.Name = "TeamName2";
-            this.TeamName2.Size = new System.Drawing.Size(0, 13);
+            this.TeamName2.Size = new System.Drawing.Size(154, 13);
             this.TeamName2.TabIndex = 34;
             // 
             // TeamName6
             // 
-            this.TeamName6.AutoSize = true;
             this.TeamName6.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName6.Location = new System.Drawing.Point(770, 232);
+            this.TeamName6.Location = new System.Drawing.Point(645, 232);
             this.TeamName6.Name = "TeamName6";
-            this.TeamName6.Size = new System.Drawing.Size(0, 13);
+            this.TeamName6.Size = new System.Drawing.Size(154, 13);
             this.TeamName6.TabIndex = 35;
+            this.TeamName6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // TeamName1
             // 
             this.TeamName1.AutoSize = true;
             this.TeamName1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TeamName1.Location = new System.Drawing.Point(132, 232);
+            this.TeamName1.Location = new System.Drawing.Point(148, 232);
             this.TeamName1.Name = "TeamName1";
-            this.TeamName1.Size = new System.Drawing.Size(0, 13);
+            this.TeamName1.Size = new System.Drawing.Size(154, 13);
             this.TeamName1.TabIndex = 36;
             // 
             // pictureBox9

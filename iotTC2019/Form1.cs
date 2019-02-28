@@ -31,10 +31,16 @@ namespace iotTC2019
                 string temp;
                 string[] name = new string[10];
 
-                for (int i = 0; i < name.Length; i++)
-                {
-                    name[i] = "TEAM" + " " + (i + 1);
-                }
+                name[0] = "Creative Station";
+                name[1] = "Cockroachtic";
+                name[2] = "Daniel";
+                name[3] = "Doa Ibu";
+                name[4] = "Erkim";
+                name[5] = "Ex Team";
+                name[6] = "Fight Team";
+                name[7] = "Muazin";
+                name[8] = "SIRI";
+                name[9] = "Zenze Robo";
 
                 Random rand = new Random();
                 for (int i = 0; i < name.Length; i++)
@@ -46,34 +52,25 @@ namespace iotTC2019
                 }
 
                 this.TeamName1.Text = name[0];
-                this.TeamName1.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName2.Text = name[1];
-                this.TeamName2.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName3.Text = name[2];
-                this.TeamName3.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName4.Text = name[3];
-                this.TeamName4.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName5.Text = name[4];
-                this.TeamName5.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName6.Text = name[5];
-                this.TeamName6.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName7.Text = name[6];
-                this.TeamName7.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName8.Text = name[7];
-                this.TeamName8.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName9.Text = name[8];
-                this.TeamName9.BackColor = Color.FromArgb(150, Color.Black);
 
                 this.TeamName10.Text = name[9];
-                this.TeamName10.BackColor = Color.FromArgb(150, Color.Black);
+
 
                 isStart = true;
             }
