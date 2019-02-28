@@ -122,7 +122,7 @@
             this.TeamName5.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.TeamName5.Location = new System.Drawing.Point(148, 538);
             this.TeamName5.Name = "TeamName5";
-            this.TeamName5.Size = new System.Drawing.Size(154, 13);
+            this.TeamName5.Size = new System.Drawing.Size(0, 13);
             this.TeamName5.TabIndex = 28;
             // 
             // TeamName9
@@ -140,7 +140,7 @@
             this.TeamName4.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.TeamName4.Location = new System.Drawing.Point(148, 462);
             this.TeamName4.Name = "TeamName4";
-            this.TeamName4.Size = new System.Drawing.Size(154, 13);
+            this.TeamName4.Size = new System.Drawing.Size(0, 13);
             this.TeamName4.TabIndex = 30;
             // 
             // TeamName8
@@ -158,7 +158,7 @@
             this.TeamName3.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.TeamName3.Location = new System.Drawing.Point(148, 387);
             this.TeamName3.Name = "TeamName3";
-            this.TeamName3.Size = new System.Drawing.Size(154, 13);
+            this.TeamName3.Size = new System.Drawing.Size(0, 13);
             this.TeamName3.TabIndex = 32;
             // 
             // TeamName7
@@ -176,7 +176,7 @@
             this.TeamName2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.TeamName2.Location = new System.Drawing.Point(148, 313);
             this.TeamName2.Name = "TeamName2";
-            this.TeamName2.Size = new System.Drawing.Size(154, 13);
+            this.TeamName2.Size = new System.Drawing.Size(0, 13);
             this.TeamName2.TabIndex = 34;
             // 
             // TeamName6
@@ -194,7 +194,7 @@
             this.TeamName1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.TeamName1.Location = new System.Drawing.Point(148, 232);
             this.TeamName1.Name = "TeamName1";
-            this.TeamName1.Size = new System.Drawing.Size(154, 13);
+            this.TeamName1.Size = new System.Drawing.Size(0, 13);
             this.TeamName1.TabIndex = 36;
             // 
             // pictureBox9
